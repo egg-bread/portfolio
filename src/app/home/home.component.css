@@ -1,0 +1,12 @@
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+div {
+    height: 100vh;
+}
+
+nav {
+    padding: 0.4em;
+}
