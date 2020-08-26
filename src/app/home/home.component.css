@@ -3,10 +3,10 @@ img {
     height: auto;
 }
 
-div {
-    height: 100vh;
-}
-
 nav {
     padding: 0.4em;
+}
+
+button {
+    padding: 5px;
 }

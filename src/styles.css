@@ -7,5 +7,10 @@ body { margin: 0; font-family: 'Anonymous Pro', monospace; }
 }
 
 button:hover {
-    color: #FFE082;
+    color: #F06292;
+}
+
+.container {
+    padding: 1.5em;
+    min-height: 100%;
 }
