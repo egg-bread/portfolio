@@ -1,6 +1,7 @@
 img {
     max-width: 100%;
     height: auto;
+    padding: 1em;
 }
 
 nav {
@@ -9,4 +10,8 @@ nav {
 
 button {
     padding: 5px;
+}
+
+#tall {
+    min-height: 100vh;
 }
